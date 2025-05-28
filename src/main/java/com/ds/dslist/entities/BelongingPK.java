@@ -1,4 +1,4 @@
-package com.devsuperior.dslist.entities;
+package com.ds.dslist.entities;
 
 import jakarta.persistence.Embeddable;
 import jakarta.persistence.JoinColumn;

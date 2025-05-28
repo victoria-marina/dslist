@@ -1,4 +1,4 @@
-package com.devsuperior.dslist.dto;
+package com.ds.dslist.dto;
 
 public class ReplacementDTO {
 

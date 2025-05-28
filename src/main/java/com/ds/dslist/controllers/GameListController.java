@@ -1,10 +1,10 @@
-package com.devsuperior.dslist.controllers;
+package com.ds.dslist.controllers;
 
-import com.devsuperior.dslist.dto.GameListDTO;
-import com.devsuperior.dslist.dto.GameMinDTO;
-import com.devsuperior.dslist.dto.ReplacementDTO;
-import com.devsuperior.dslist.services.GameListService;
-import com.devsuperior.dslist.services.GameService;
+import com.ds.dslist.dto.GameListDTO;
+import com.ds.dslist.dto.GameMinDTO;
+import com.ds.dslist.dto.ReplacementDTO;
+import com.ds.dslist.services.GameListService;
+import com.ds.dslist.services.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

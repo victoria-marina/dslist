@@ -1,8 +1,7 @@
-package com.devsuperior.dslist.dto;
+package com.ds.dslist.dto;
 
-import com.devsuperior.dslist.entities.Game;
-import com.devsuperior.dslist.projections.GameMinProjection;
-import jakarta.persistence.Column;
+import com.ds.dslist.entities.Game;
+import com.ds.dslist.projections.GameMinProjection;
 
 public class GameMinDTO {
 
