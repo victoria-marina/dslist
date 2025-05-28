@@ -1,5 +1,7 @@
 # DSList
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/victoria-marina/dslist/blob/main/LICENSE.md) 
+
 **DSList** is a Java Spring Boot application that provides a RESTful API for managing a list of games. It uses JPA for persistence and supports both in-memory (H2) and PostgreSQL databases.
 
 - List all games
